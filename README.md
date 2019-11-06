@@ -30,7 +30,7 @@ Where `[run_name]` is whatever you are calling todays run (as specified in MinKN
 Run RAMPART:
 
 ```
-rampart --protocol ../rampart-ebov --basecalledPath ~/MinKNOW/data/reads/[run_name]/pass
+rampart --protocol ../rampart-ebov/protocol --basecalledPath ~/MinKNOW/data/reads/[run_name]/pass
 ```
 
 `basecalledPath` should be set to whereever MinKNOW/guppy is going to write its basecalled files.
