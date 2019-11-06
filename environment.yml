@@ -1,4 +1,4 @@
-name: artic-ebov
+name: rampart-ebov
 channels:
   - bioconda
   - conda-forge
