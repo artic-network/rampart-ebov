@@ -27,7 +27,7 @@ cd [run_name]
 
 Where `[run_name]` is whatever you are calling todays run (as specified in MinKNOW).
 
-Run RAMPART:
+Run RAMPART (assuming the `rampart-nipah` directory is next to `[run_name]`):
 
 ```
 rampart --protocol ../rampart-ebov/protocol --basecalledPath ~/MinKNOW/data/reads/[run_name]/pass
